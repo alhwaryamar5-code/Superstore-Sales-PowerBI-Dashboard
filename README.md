@@ -30,6 +30,3 @@ This project provides a comprehensive analysis of the Superstore dataset. It is 
 * **Visualizations:** Maps, Line Charts with Forecasting, Bar Charts, and KPI Cards.
 
 ---
-
-## 🖼️ Dashboard Preview
-*(You can upload the screenshot of your final dashboard here)*
